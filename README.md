@@ -1,2 +1,2 @@
-# animacion
-Gráficas animadas 2020
+# Gráficas animadas
+Principales gráficas animadas diseñadas en el 2020-2021
